@@ -5,3 +5,5 @@ book = Book.objects.create(
     author="George Orwell",
     publication_year=1949
 )
+
+<!-- There is no output. Book table is created -->
